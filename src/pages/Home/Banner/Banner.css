@@ -1,0 +1,36 @@
+.banner{
+    height: 100vh;
+}
+.banner-details{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner-details p{
+    color: white;
+    font-size:30px;
+}
+.banner-details h3{
+    padding-bottom: 10px;
+    color: white;
+    font-size:55px;
+    height: 100px;
+}
+.banner-details h4{
+    padding-top: 15px;
+    color: #00FFBB;
+    font-size:40px;
+}
+.banner-details small{
+    color: white;
+    font-size:15px;
+    margin-top: 10px;
+}
+.banner-details button{
+    margin-top: 15px;
+    background-color: #00FFBB;
+    padding: 10px 25px;
+    border: none;
+    border-radius:8px;
+    
+}
