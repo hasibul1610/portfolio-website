@@ -37,6 +37,19 @@ const Navigation = () => {
 
                         >About</NavHashLink>
                         <NavHashLink
+                            to="#projects"
+                            style={{
+                                textDecoration: 'none',
+                                color: '#e0dfdc',
+                                marginRight: '20px',
+                                fontSize: '24px',
+                                padding: '10px 0'
+                            }}
+                            activeClassName="selected"
+                            activeStyle={{ color: 'white' }}
+
+                        >Portfolio</NavHashLink>
+                        <NavHashLink
                             to="#contact"
                             style={{
                                 textDecoration: 'none',

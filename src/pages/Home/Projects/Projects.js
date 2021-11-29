@@ -29,7 +29,9 @@ const Projects = () => {
         <div
             style={{
                 backgroundColor: '#262626'
-            }}>
+            }}
+            id="projects"
+        >
             <Container>
                 <h2 className="text-center project-header">Projects</h2>
 
