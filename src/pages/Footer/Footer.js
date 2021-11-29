@@ -16,9 +16,9 @@ const Footer = () => {
                     </div>
                     <div className="col-md-3">
                         <div className="social-div">
-                            <a href="https://www.facebook.com/hasibul.islam.50596/" target="_blank"><i class="fab fa-facebook"></i></a>
-                            <a href="https://www.linkedin.com/in/hasibul1610" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            <a href="https://github.com/hasibul1610" target="_blank"><i class="fab fa-github"></i></a>
+                            <a href="https://www.facebook.com/hasibul.islam.50596/" target="_blank" rel="noreferrer"><i className="fab fa-2x fa-facebook"></i></a>
+                            <a href="https://www.linkedin.com/in/hasibul1610" target="_blank" rel="noreferrer"><i className="fab fa-2x fa-linkedin"></i></a>
+                            <a href="https://github.com/hasibul1610" target="_blank" rel="noreferrer"><i className="fab fa-2x fa-github"></i></a>
                         </div>
                     </div>
                 </div>

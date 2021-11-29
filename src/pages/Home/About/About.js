@@ -28,13 +28,13 @@ const About = () => {
                             </div>
                             <div className="text">
                                 <p className="text-white my-3 pt-5">
-                                    I’m Oluwakemi Adeleke, a professional and talented  with front end development skills. I am passionate about leveraging my diverse backgrounds to decipher challenging problems and create delightful experiences. I honed my skills at web development, technical writing, product design and SEO analytics.
+                                    I’m Md Hasibul Islam, a passionate and talented  with front end development skills. I am passionate about leveraging my diverse backgrounds to decipher challenging problems and create delightful experiences. I honed my skills at web development, computer Networking area.
                                 </p>
                                 <p className="text-white my-3 pt-4">
-                                    I develop websites with HTML, CSS and JavaScript. I have top skills in using design softwares like Figma, Adobe XD, Invision and PhotoShop; with prototype tools like Framer and Protopie.
+                                    I develop websites with HTML, CSS , JavaScript, React, Node and MongoDb Database. I have top skills in using tools like VS Code, Firebase, Heroku,Git.
                                 </p>
                                 <p className="text-white my-3 pt-4">
-                                    Being a diligent, hardworking and result oriented lady, I always work towards achieving best result on each project I lay my hands on.
+                                    Being a diligent, hardworking and result oriented person, I always work towards achieving best result on each project I lay my hands on.
                                 </p>
                                 <br />
                                 <button className="hire-me-button">Hire Me</button>
