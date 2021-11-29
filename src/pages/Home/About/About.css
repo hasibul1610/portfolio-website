@@ -1,0 +1,50 @@
+.about-header{
+    font-size:35px;
+    font-weight: 700;
+    padding-top: 80px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.about-img-box{
+    padding: 15%;
+}
+.about-img{
+    
+    border-top: 17px solid #0fb;
+    border-left: 17px solid #0fb;
+    padding-top: 12px;
+    padding-left: 15px;
+}
+.about-hr{
+    width: 50px;
+    border-top: 4px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+
+}
+.line {
+    display: inline-block;
+    width: 5rem;
+    height: .3rem;
+    background: #0fb;
+    border-radius: 2px;
+}
+.who {
+    font-family: SF Pro Display,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    color: #0fb;
+    margin-right: 7px;
+}
+.hire-me-button{
+    margin-top: 15px;
+    background-color: #00FFBB;
+    padding: 10px 25px;
+    border: none;
+    border-radius:8px;
+    
+}

@@ -3,8 +3,7 @@ import './Banner.css';
 import bannerBg from '../../../images/banner-bg.jpg';
 import { Container } from 'react-bootstrap';
 import Typewriter from 'typewriter-effect';
-import { Link } from 'react-router-dom';
-import resume from '../../../resume/resume.pdf';
+
 
 const bannerBgStyle = {
     // backgroundImage: `url(${bannerBg})`,
@@ -40,7 +39,8 @@ const Banner = () => {
                         <small>Experienced in HTML5, CSS3, Bootstrap5, React. Enthusiastic about MongoDb, Node, Express, Redux, React
                             Native. Accustomed with Git, Github, Chrome Dev Tool, VS Code, Heroku, and MongoDB Atlas tools.</small>
                         <br />
-                        <Link to={resume} download><button>My Resume  </button></Link>
+
+                        <a href="https://drive.google.com/file/d/10M4gIKwsNbv0niBT2cHqq89DRhmL-PuH/view?usp=sharing" target="_blank" rel="noreferrer"><button> See My Resume  </button> </a>
 
                     </div>
 

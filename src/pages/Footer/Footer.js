@@ -1,0 +1,31 @@
+import React from 'react';
+import { Container } from 'react-bootstrap';
+import './Footer.css';
+
+const Footer = () => {
+    return (
+        <div className="footer">
+
+            <Container>
+                <div className="row">
+                    <div className="col-md-4">
+                        <h3 className="text-white">Md Hasibul Islam</h3>
+                    </div>
+                    <div className="col-md-5">
+                        <small className="text-white"> &copy; Copyright 2021. All rights reserved.</small>
+                    </div>
+                    <div className="col-md-3">
+                        <div className="social-div">
+                            <a href="https://www.facebook.com/hasibul.islam.50596/" target="_blank"><i class="fab fa-facebook"></i></a>
+                            <a href="https://www.linkedin.com/in/hasibul1610" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://github.com/hasibul1610" target="_blank"><i class="fab fa-github"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </Container>
+
+        </div>
+    );
+};
+
+export default Footer;
