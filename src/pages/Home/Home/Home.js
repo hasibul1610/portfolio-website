@@ -4,6 +4,7 @@ import Navigation from '../../Navigation/Navigation';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Contact from '../Contact/Contact';
+import Projects from '../Projects/Projects';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Navigation></Navigation>
             <Banner></Banner>
             <About></About>
+            <Projects></Projects>
             <Contact></Contact>
             <Footer></Footer>
         </div>
