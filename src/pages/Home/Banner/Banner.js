@@ -7,7 +7,7 @@ import Typewriter from 'typewriter-effect';
 
 const bannerBgStyle = {
     // backgroundImage: `url(${bannerBg})`,
-    backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.557),rgba(0, 0, 0, 0.7)) , url(${bannerBg})`,
+    backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.657),rgba(0, 0, 0, 0.8)) , url(${bannerBg})`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
