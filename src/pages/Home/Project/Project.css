@@ -1,11 +1,14 @@
 .carousel-img-box{
-    height:600px;
+    height:750px;
     width:100%;
+    display: flex;
+    justify-content:center;
+    align-items:center; 
 }
 .carousel-img{
     width: 100%;
     height: auto;
-    
+   
 }
 .back-home{
     margin-bottom: 20px;

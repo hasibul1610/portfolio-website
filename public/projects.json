@@ -9,10 +9,10 @@
         "img2": "https://i.ibb.co/61GmTT8/bike-login.png",
         "liveLink": "https://bike-mart-d38d6.web.app/",
         "details": {
-            "p1": "Authentication System Using Email, Password or Google Account",
-            "p2": "CRUD Operation Using Node, Express with MongoDb Database",
-            "p3": "Different Functionalities for Admin and Users",
-            "p4": "Responsive Website for Large and Smaller Devices Using React and Bootstrap",
+            "p1": "=> Authentication System Using Email, Password or Google Account",
+            "p2": "=> CRUD Operation Using Node, Express with MongoDb Database",
+            "p3": "=> Different Functionalities for Admin and Users",
+            "p4": "=> Responsive Website for Large and Smaller Devices Using React and Bootstrap",
             "p5": ""
         },
         "technology": " React, React Bootstrap, Firebase, Node Js, Express, MongoDb, React Hook Form, Heroku",
@@ -28,11 +28,11 @@
         "img4": "https://i.ibb.co/PghGZ36/Travlio-full.png",
         "liveLink": "https://travlio-9d92e.web.app/",
         "details": {
-            "p1": " Firebase Authentication using Google Account",
-            "p2": "MongoDb is used as Database",
-            "p3": " User can see all the tour packages coming from database ",
-            "p4": "After login user can confirm Booking and can see all the booking done by this email",
-            "p5": " Responsive Website Using React and Bootstrap "
+            "p1": "=> Firebase Authentication using Google Account",
+            "p2": "=> MongoDb is used as Database",
+            "p3": "=> User can see all the tour packages coming from database ",
+            "p4": "=> After login user can confirm Booking and can see all the booking done by this email",
+            "p5": "=> Responsive Website Using React and Bootstrap "
         },
         "technology": " React, React Bootstrap, Firebase, Node Js, Express, MongoDb, React Hook Form, Heroku",
         "codeLink": "https://github.com/hasibul1610/travlio-website-client"
@@ -47,11 +47,11 @@
         "img4": "https://i.ibb.co/KFRC5Y6/Dental-Cdetails.png",
         "liveLink": "https://dental-clinic-3fc5f.web.app/",
         "details": {
-            "p1": "Protected Routing Using React Router",
-            "p2": " Used Custom API from Where All of the Data comes from",
-            "p3": "Responsive and Clean UI for Large and Mobile Devices",
-            "p4": " Firebase Authentication is used to Authenticate the Users",
-            "p5": " Responsive Website Using React and Bootstrap "
+            "p1": "=> Protected Routing Using React Router",
+            "p2": "=> Used Custom API from Where All of the Data comes from",
+            "p3": "=> Responsive and Clean UI for Large and Mobile Devices",
+            "p4": "=> Firebase Authentication is used to Authenticate the Users",
+            "p5": "=> Responsive Website Using React and Bootstrap "
         },
         "technology": " React, React Bootstrap, Firebase",
         "codeLink": "https://github.com/hasibul1610/dental-clinic-website"
