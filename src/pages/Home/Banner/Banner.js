@@ -40,7 +40,7 @@ const Banner = () => {
                             Native. Accustomed with Git, Github, Chrome Dev Tool, VS Code, Heroku, and MongoDB Atlas tools.</small>
                         <br />
 
-                        <a href="https://drive.google.com/file/d/10M4gIKwsNbv0niBT2cHqq89DRhmL-PuH/view?usp=sharing" target="_blank" rel="noreferrer"><button> See My Resume  </button> </a>
+                        <a href="https://drive.google.com/uc?id=10M4gIKwsNbv0niBT2cHqq89DRhmL-PuH&export=download" target="_blank" rel="noreferrer"><button> See My Resume  </button> </a>
 
                     </div>
 

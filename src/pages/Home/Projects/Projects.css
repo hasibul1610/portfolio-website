@@ -20,24 +20,17 @@
     padding-top: 50px;
     border: 1px solid white;
     border-radius: 10px;
-    position: relative;
     box-shadow: 0px 5px 20px rgba(255, 255, 255, 0.5);
-    transition: 0.3s;
     padding: 22px 32px;
     border-color: #fff;
     cursor: pointer;
-    height: 280px;
+    height: 500px;
     
 }
-.project:hover{
-    height: 500px;
-}
+
 .project-img{
     width: 100%;
-    height: 100%;
-    transform: translateY(-62px);
-    position: relative;
-    z-index: 1;
+
 }
 .project-img img{
     width: 100%;
@@ -48,11 +41,12 @@
 .project-details{
     padding: 10px 20px;
     text-align: center;
-    transform: translateY(-400px);
-    opacity: 0;
-    transition: 0.3s;
 }
-.project:hover > .project-details{
-    opacity: 1;
-    transform: translateY(-200px);
+.project-button{
+    margin-top: 15px;
+    background-color: #00FFBB;
+    padding: 10px 25px;
+    border: none;
+    border-radius:8px;
+    
 }
