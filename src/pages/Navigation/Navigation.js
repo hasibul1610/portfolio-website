@@ -22,7 +22,7 @@ const Navigation = () => {
                             activeClassName="selected"
                             activeStyle={{ color: 'white' }}
 
-                        >Home</NavHashLink>
+                        > <i className="fas fa-home"></i></NavHashLink>
                         <NavHashLink
                             to="#about"
                             style={{
@@ -35,7 +35,7 @@ const Navigation = () => {
                             activeClassName="selected"
                             activeStyle={{ color: 'white' }}
 
-                        >About</NavHashLink>
+                        >About </NavHashLink>
                         <NavHashLink
                             to="#projects"
                             style={{

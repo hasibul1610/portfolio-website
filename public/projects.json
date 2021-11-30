@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Bike Mart",
+        "featureImg": "https://i.ibb.co/Bjp5N9K/bike-mart-mocup.png",
+        "img1": "https://i.ibb.co/ph7j8Xf/bike-home.png",
+        "img3": "https://i.ibb.co/9bLLCMq/bike-admin.png",
+        "img4": "https://i.ibb.co/N7Sx9vR/bike-all.png",
+        "img2": "https://i.ibb.co/61GmTT8/bike-login.png",
+        "liveLink": "https://bike-mart-d38d6.web.app/",
+        "details": {
+            "p1": "Authentication System Using Email, Password or Google Account",
+            "p2": "CRUD Operation Using Node, Express with MongoDb Database",
+            "p3": "Different Functionalities for Admin and Users",
+            "p4": "Responsive Website for Large and Smaller Devices Using React and Bootstrap",
+            "p5": ""
+        },
+        "technology": " React, React Bootstrap, Firebase, Node Js, Express, MongoDb, React Hook Form, Heroku"
+    },
+    {
+        "id": 2,
+        "name": "Travel Booking",
+        "featureImg": "https://i.ibb.co/jrpBXx4/travlio-mocup.png",
+        "img1": "https://i.ibb.co/VJfX5d9/Travlio-about.png",
+        "img2": "https://i.ibb.co/c6y861w/Travlio-admin.png",
+        "img3": "https://i.ibb.co/V99D0XC/Travlio-contact.png",
+        "img4": "https://i.ibb.co/PghGZ36/Travlio-full.png",
+        "liveLink": "https://travlio-9d92e.web.app/",
+        "details": {
+            "p1": " Firebase Authentication using Google Account",
+            "p2": "MongoDb is used as Database",
+            "p3": " User can see all the tour packages coming from database ",
+            "p4": "After login user can confirm Booking and can see all the booking done by this email",
+            "p5": " Responsive Website Using React and Bootstrap "
+        },
+        "technology": " React, React Bootstrap, Firebase, Node Js, Express, MongoDb, React Hook Form, Heroku"
+    },
+    {
+        "id": 3,
+        "name": "Dental Clinic",
+        "featureImg": "https://i.ibb.co/B43qpHH/dental-mocup.png",
+        "img1": "https://i.ibb.co/zXprnZq/dental-about.png",
+        "img2": "https://i.ibb.co/B6xRVFy/dental-doctor.png",
+        "img3": "https://i.ibb.co/56307JX/dental-home.png",
+        "img4": "https://i.ibb.co/KFRC5Y6/Dental-Cdetails.png",
+        "liveLink": "https://dental-clinic-3fc5f.web.app/",
+        "details": {
+            "p1": "Protected Routing Using React Router",
+            "p2": " Used Custom API from Where All of the Data comes from",
+            "p3": "Responsive and Clean UI for Large and Mobile Devices",
+            "p4": " Firebase Authentication is used to Authenticate the Users",
+            "p5": " Responsive Website Using React and Bootstrap "
+        },
+        "technology": " React, React Bootstrap, Firebase"
+    }
+]

@@ -37,7 +37,9 @@ const About = () => {
                                     Being a diligent, hardworking and result oriented person, I always work towards achieving best result on each project I lay my hands on.
                                 </p>
                                 <br />
-                                <button className="hire-me-button">Hire Me</button>
+                                <a href="https://www.linkedin.com/in/hasibul1610" target="_blank" rel="noreferrer">
+                                    <button className="hire-me-button">Hire Me</button>
+                                </a>
                             </div>
 
                         </div>
