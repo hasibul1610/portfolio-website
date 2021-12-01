@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Navbar } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavHashLink } from 'react-router-hash-link';
 
 const Navigation = () => {
@@ -10,59 +10,63 @@ const Navigation = () => {
                     {/* <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand> */}
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
-                        <NavHashLink
-                            to="#home"
-                            style={{
-                                textDecoration: 'none',
-                                color: '#e0dfdc',
-                                marginRight: '20px',
-                                fontSize: '24px',
-                                padding: '10px 0'
-                            }}
-                            activeClassName="selected"
-                            activeStyle={{ color: 'white' }}
+                        <Nav className="me-auto">
+                            <NavHashLink
+                                to="#home"
+                                style={{
+                                    textDecoration: 'none',
+                                    color: '#e0dfdc',
+                                    marginRight: '20px',
+                                    fontSize: '24px',
+                                    padding: '10px 0'
+                                }}
+                                activeClassName="selected"
+                                activeStyle={{ color: 'white' }}
 
-                        > <i className="fas fa-home"></i></NavHashLink>
-                        <NavHashLink
-                            to="#about"
-                            style={{
-                                textDecoration: 'none',
-                                color: '#e0dfdc',
-                                marginRight: '20px',
-                                fontSize: '24px',
-                                padding: '10px 0'
-                            }}
-                            activeClassName="selected"
-                            activeStyle={{ color: 'white' }}
+                            > <i className="fas fa-home"></i></NavHashLink>
+                        </Nav>
+                        <Nav className="ms-auto">
 
-                        >About </NavHashLink>
-                        <NavHashLink
-                            to="#projects"
-                            style={{
-                                textDecoration: 'none',
-                                color: '#e0dfdc',
-                                marginRight: '20px',
-                                fontSize: '24px',
-                                padding: '10px 0'
-                            }}
-                            activeClassName="selected"
-                            activeStyle={{ color: 'white' }}
+                            <NavHashLink
+                                to="#about"
+                                style={{
+                                    textDecoration: 'none',
+                                    color: '#e0dfdc',
+                                    marginRight: '20px',
+                                    fontSize: '24px',
+                                    padding: '10px 0'
+                                }}
+                                activeClassName="selected"
+                                activeStyle={{ color: 'white' }}
 
-                        >Portfolio</NavHashLink>
-                        <NavHashLink
-                            to="#contact"
-                            style={{
-                                textDecoration: 'none',
-                                color: '#e0dfdc',
-                                marginRight: '20px',
-                                fontSize: '24px',
-                                padding: '10px 0'
-                            }}
-                            activeClassName="selected"
-                            activeStyle={{ color: 'white' }}
+                            >About </NavHashLink>
+                            <NavHashLink
+                                to="#projects"
+                                style={{
+                                    textDecoration: 'none',
+                                    color: '#e0dfdc',
+                                    marginRight: '20px',
+                                    fontSize: '24px',
+                                    padding: '10px 0'
+                                }}
+                                activeClassName="selected"
+                                activeStyle={{ color: 'white' }}
 
-                        >Contact</NavHashLink>
+                            >Portfolio</NavHashLink>
+                            <NavHashLink
+                                to="#contact"
+                                style={{
+                                    textDecoration: 'none',
+                                    color: '#e0dfdc',
+                                    marginRight: '20px',
+                                    fontSize: '24px',
+                                    padding: '10px 0'
+                                }}
+                                activeClassName="selected"
+                                activeStyle={{ color: 'white' }}
 
+                            >Contact</NavHashLink>
+                        </Nav>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>

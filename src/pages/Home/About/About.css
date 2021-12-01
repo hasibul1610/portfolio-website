@@ -48,3 +48,96 @@
     border-radius:8px;
     
 }
+
+.service-card-1{
+    
+    border-radius:10px;
+    overflow: hidden;
+    height:430px;
+    box-shadow: 5px 5px 15px  white;
+    background-color: #2b2b2b;
+}
+.service-card-2{
+    box-shadow: 5px 5px 15px  white;
+    background-color: #2b2b2b;
+    border-radius:10px;
+    overflow: hidden;
+    height:430px;
+}
+.service-card-3{
+    box-shadow: 5px 5px 15px  white;
+    background-color: #2b2b2b;
+    border-radius:10px;
+    overflow: hidden;
+    height:430px;
+}
+
+.service-card-img{
+    height:150px;
+    
+}
+.service-card-img img{
+    width:auto;
+    height:100%;
+}
+.service-details h3,p{
+    color: white;
+}
+.service-bottom-1{
+    background: #6BD4DA;
+    height:15px;
+    margin-top: auto;
+    
+}
+.service-bottom-2{
+    background: #27AAE2;
+    height:15px;
+    margin-top: auto;
+    
+}
+.service-bottom-3{
+    background: #48A049;
+    height:15px;
+    margin-top: auto;
+    
+}
+.service-card-1:hover{
+    background-color: #0fb;
+    transition: 0.3s;
+    
+}
+.service-card-2:hover{
+    background-color: #0fb;
+    transition: 0.3s;
+    
+}
+.service-card-3:hover{
+    background-color: #0fb;
+    transition: 0.3s;
+    
+}
+.service-card-1:hover .service-details h3{
+color: black;
+transition: 0.3s;
+}
+.service-card-2:hover .service-details h3{
+color: black;
+transition: 0.3s;
+}
+.service-card-3:hover .service-details h3{
+color: black;
+transition: 0.3s;
+}
+.service-card-1:hover .service-details p{
+color: black;
+transition: 0.3s;  
+}
+.service-card-2:hover .service-details p{
+color: black;
+transition: 0.3s;  
+}
+.service-card-3:hover .service-details p{
+color: black;
+transition: 0.3s;  
+}
+
